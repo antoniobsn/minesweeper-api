@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.absn.minesweeperapi.model.BoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-28T19:24:08" hostname="antonio-K45VM" time="0.03">
-  <properties/>
-  <testcase name="create()" classname="br.com.absn.minesweeperapi.model.BoardTest" time="0.03"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
