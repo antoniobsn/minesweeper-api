@@ -2,7 +2,9 @@ package br.com.absn.minesweeperapi.model
 
 import kotlin.random.Random
 
-data class Board(var matrixCells: List<List<Cell>>? = null) {
+class Board {
+
+    var matrixCells: List<List<Cell>>? = null
 
     init { matrixCells = create() }
 
