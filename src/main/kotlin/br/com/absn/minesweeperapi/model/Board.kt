@@ -4,9 +4,7 @@ import kotlin.random.Random
 
 class Board {
 
-    var matrixCells: List<List<Cell>>? = null
-
-    init { matrixCells = create() }
+    var matrixCells: List<List<Cell>> = create()
 
     private fun create(): List<List<Cell>> {
         val cells = mutableListOf<List<Cell>>()
